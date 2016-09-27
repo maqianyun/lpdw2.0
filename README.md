@@ -80,7 +80,6 @@ Tu peux proposer une nouvelle fonctionnalité en ajoutant une Issue sur le dép�
 **Tu veux contribuer ?**
 Tout le monde sans exception doit suivre ce processus du fichier [CONTRIBUTION.md](https://github.com/lpdw/lpdw2.0/blob/development/CONTRIBUTION.md). Les excuses du genre : “Je fais partie de la promo X” ne sont pas valables.
 
-test de qianyun
 ----------
 
 
